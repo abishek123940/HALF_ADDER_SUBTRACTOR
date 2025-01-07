@@ -50,7 +50,8 @@ Borrow = A’B
 
 **Program:**
 
-![image](https://github.com/user-attachments/assets/c83a8584-efbd-4c8a-b129-1f57d5116aab)
+
+![image](https://github.com/user-attachments/assets/86fa317c-d317-4e8a-8b05-5d1db398a450)
 
 **TRUTH TABLE:**
 
@@ -66,11 +67,17 @@ Borrow = A’B
 
 **RTL REALIZATION OUTPUT:**
 
-![image](https://github.com/user-attachments/assets/7ad455c6-6e32-4890-8001-360cf39fe839)
+![image](https://github.com/user-attachments/assets/de7e5514-b487-4c39-bf0c-4fd7778508e4)
+
+![image](https://github.com/user-attachments/assets/dd29871a-2a1a-457a-8066-12ba82d31e7f)
+
 
 **TIMING DIAGRAM:**
 
-![image](https://github.com/user-attachments/assets/a4508e39-af79-4396-a742-176e160d965f)
+![image](https://github.com/user-attachments/assets/d1b14557-50d9-4d6d-b129-7cfbd253697b)
+
+![image](https://github.com/user-attachments/assets/a8c72561-fd6f-4271-85b0-983517616754)
+
 
 **RESULT**
 
